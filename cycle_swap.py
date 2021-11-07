@@ -7,10 +7,10 @@ class CycleSwap(Cipher):
         super().__init__(decrypted=decrypted)
         self.n = n
         self.encrypted = ''
-        self.generate_encrypted()
+        self.__generate_encrypted()
 
     # Generate encrypted string from decrypted and rule.
-    def generate_encrypted(self) -> None:
+    def __generate_encrypted(self) -> None:
         temp = []
         for el in self.decrypted:
             if el.isdecimal():

@@ -3,10 +3,10 @@ class Cipher:
     def __init__(self, decrypted: str):
         self.decrypted = decrypted
         self.comparable = 0
-        self.set_comparable()
+        self.__set_comparable()
 
     # Set comparable as a variable for faster sorting.
-    def set_comparable(self):
+    def __set_comparable(self):
         for el in self.decrypted:
             self.comparable += ord(el)
         self.comparable /= float(len(self.decrypted))

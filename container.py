@@ -48,8 +48,7 @@ class Container:
     # Writes container data to file with specified path.
     def write_to(self, path: str) -> None:
         with open(file=path, mode='w') as file:
-            k = str(self)
-            file.write(k)
+            file.write(str(self))
 
     # Sorts storage of container as a shaker sort.
     def sort(self):
