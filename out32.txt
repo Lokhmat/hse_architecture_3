@@ -1,0 +1,262 @@
+Container:
+Contains 10.
+0: CycleSwap:
+Decrypted:swuhycbowl2ajoueegic4dcocbj5ajzzwhgen6
+Encrypted:ycaneihucr0gpuakkmoi2jiuihp3gpffcnmkt4
+N=58
+Comparable:101.5
+1: NumberSwap:
+Decrypted:dlardlkhixqyylzhs2356dtkzwxyzzglyjuoodeqmevcfuputcksjflnih46blxhxpdqafdptqafeufozabpmfzmascqejqukuhjtfyf1243dqxozcohafahgexzkytcyjhv
+Encrypted:100 850 344 279 100 850 700 957 765 277 187 945 945 850 586 957 423 302 303 305 306 100 539 700 586 483 277 945 586 586 937 850 945 570 262 425 425 100 94 187 211 94 337 970 547 262 514 262 539 970 700 423 570 547 850 538 765 957 304 306 901 850 277 957 277 514 100 187 344 547 100 514 539 187 344 547 94 262 547 425 586 344 901 514 211 547 586 211 344 423 970 187 94 570 187 262 700 262 957 570 539 547 945 547 301 302 304 303 100 187 277 425 586 970 425 957 344 547 344 957 937 94 277 586 700 945 539 970 945 570 957 337
+a 344
+b 901
+c 970
+d 100
+e 94
+f 547
+g 937
+h 957
+i 765
+j 570
+k 700
+l 850
+m 211
+n 538
+o 425
+p 514
+q 187
+r 279
+s 423
+t 539
+u 262
+v 337
+w 483
+x 277
+y 945
+z 586
+1 301
+2 302
+3 303
+4 304
+5 305
+6 306
+7 307
+8 308
+9 309
+0 310
+Comparable: 104.84848484848484
+2: CycleSwap:
+Decrypted:upkohshhdgsqa1fgirlzp5jbrvxxdhdgnkduekaafgwlbcbnqlbpoirjfzgjoq74djoujptgaarbqgexbg7zjqinwwhoazxm
+Encrypted:snimfqffbeqoy5degpjxn9hzptvvbfbelibsciyydeujzazlojznmgphdxehmo18bhmshnreyypzoecvze1xhogluufmyxvk
+N=24
+Comparable:105.04166666666667
+3: NumberSwap:
+Decrypted:fsueaeeaavujnvaurgkipzussfakyr123ltmclkbioxntvxidubjpijcraokhqjtiaowg23qnzoawbyabje8opzqrcnuxeyndkyhxpwlsimat2eufurnuxcypqebaykjzsimhktsft2lxfzmjmljhvtnqhk124tccjuhnxwrkvwloulaldxuxo
+Encrypted:788 379 55 774 988 774 774 988 988 89 55 304 482 89 988 55 187 476 346 697 618 69 55 379 379 788 988 346 7 187 501 502 503 244 963 729 265 244 346 187 697 441 732 482 963 89 732 697 577 55 187 304 618 697 304 265 187 988 441 346 772 687 304 963 697 988 441 832 476 502 503 687 482 69 441 988 832 187 7 988 187 304 774 508 441 618 69 687 187 265 482 55 732 774 7 482 577 346 7 772 732 618 832 244 379 697 729 988 963 502 774 55 788 55 187 482 55 732 265 7 618 687 774 187 988 7 346 304 69 379 697 729 772 346 963 379 788 963 502 244 732 788 69 729 304 729 244 304 772 89 963 482 687 772 346 501 502 504 963 265 265 304 55 772 482 732 832 187 346 89 832 244 441 55 244 988 244 577 732 55 732 441
+a 988
+b 187
+c 265
+d 577
+e 774
+f 788
+g 476
+h 772
+i 697
+j 304
+k 346
+l 244
+m 729
+n 482
+o 441
+p 618
+q 687
+r 187
+s 379
+t 963
+u 55
+v 89
+w 832
+x 732
+y 7
+z 69
+1 501
+2 502
+3 503
+4 504
+5 505
+6 506
+7 507
+8 508
+9 509
+0 510
+Comparable: 106.06043956043956
+4: CycleSwap:
+Decrypted:dllgjggqrxa2inxvxlvglppreyatfmgufmdyczdfhtztlrdfvrjtrrp6thwrcbhzpzlqasfbnzacpipzpgvzjeziimhcgadmrhqizwzhqcxmcqcydgcsqfyvlej234680jsnmiffjjlwyjmqoazthlatxoxzgxmsbgipbbyhwmawvjocyffcydtofozzwwlciaaapbphnkbdxnneyonsxld
+Encrypted:dllgjggqrxa4inxvxlvglppreyatfmgufmdyczdfhtztlrdfvrjtrrp8thwrcbhzpzlqasfbnzacpipzpgvzjeziimhcgadmrhqizwzhqcxmcqcydgcsqfyvlej456802jsnmiffjjlwyjmqoazthlatxoxzgxmsbgipbbyhwmawvjocyffcydtofozzwwlciaaapbphnkbdxnneyonsxld
+N=52
+Comparable:107.05116279069767
+5: NumberSwap:
+Decrypted:azgywyazxb4arvtiznzzqkhrroetndykmry2ozopijsrncevspyxgjbybfbizdveumfcafxqahjqevzgsaioorllzynxohela4xehbstuidfeagrgasegb6aencygbopuwzaasdwgcmveitnu6wqijo2yxzfoxuhs
+Encrypted:127 622 200 268 513 268 127 622 766 609 904 127 398 974 822 687 622 438 622 622 634 108 52 398 398 277 612 822 438 273 268 108 39 398 268 902 277 622 277 78 687 924 786 398 438 439 612 974 786 78 268 766 200 924 609 268 609 714 609 687 622 273 974 612 582 39 714 439 127 714 766 634 127 52 924 634 612 974 622 200 786 127 687 277 277 398 235 235 622 268 438 766 277 52 612 235 127 904 766 612 52 609 786 822 582 687 273 714 612 127 200 398 200 127 786 612 200 609 906 127 612 438 439 268 200 609 277 78 582 513 622 127 127 786 273 513 200 439 39 974 612 687 822 438 582 906 513 634 687 924 277 902 268 766 622 714 277 766 582 52 786
+a 127
+b 609
+c 439
+d 273
+e 612
+f 714
+g 200
+h 52
+i 687
+j 924
+k 108
+l 235
+m 39
+n 438
+o 277
+p 78
+q 634
+r 398
+s 786
+t 822
+u 582
+v 974
+w 513
+x 766
+y 268
+z 622
+1 901
+2 902
+3 903
+4 904
+5 905
+6 906
+7 907
+8 908
+9 909
+0 910
+Comparable: 107.3416149068323
+6: CycleSwap:
+Decrypted:jzrjpax1swrhndakqnowuhoghxqjufmcoewxvm2ugvoiclowrrhmhdhlceapsijwjqgoqenvidsntohjcvpdjjl6albpixhovuhpclpxcnzi
+Encrypted:pfxpvgd9ycxntjgqwtucanumndwpalsiukcdbs0ambuoirucxxnsnjnrikgvyopcpwmuwktbojytzunpibvjppr4grhvodnubanvirvditfo
+N=58
+Comparable:107.46296296296296
+7: PointerSwap:
+Decrypted:iyrcpcfcfgeiuaeefqlkdhkttp4bnxeilwldyaduehd2vzonrzxweewtolacuxtzjmajkpdrgvczrjiztztm3frpesxcgjwfsvjsajnhbfklupdqeab6tvdoxkiyviuwcbfgylwjxlfzgzipoxvek4euivnqwkjiyygkszerfbnapbdcxckrozuliemhdzayxkphonmtlogweoidkndrwxki
+Encrypted:acdiwinineqausqqnbtgzmgoow6ykxqatjtzcszuqmz9hvrkdvxjqqjortsiuxovpfspgwzdehivdpavovof3ndwqlxiepjnlhplspkmyngtuwzbqsy1ohzrxgachaujiynectjpxtnvevawrxhqg6quahkbjgpacceglvqdnykswyzixigdrvutaqfmzvscxgwmrkfotrejqrazgkzdjxga
+a s
+b y
+c i
+d z
+e q
+f n
+g e
+h m
+i a
+j p
+k g
+l t
+m f
+n k
+o r
+p w
+q b
+r d
+s l
+t o
+u u
+v h
+w j
+x x
+y c
+z v
+1 0
+2 9
+3 3
+4 6
+5 4
+6 1
+7 2
+8 5
+9 7
+0 8
+Comparable: 107.80092592592592
+8: NumberSwap:
+Decrypted:nxtcjtylggmjnrklzv2rqwomydgpxmhfxnihbnbukzcrpgxcczkf57ufaxuerslrezwsmizvtqdlezzrnpjazjzwyl7azuisfmilwnvoedlynaodwxvupmxjszgvruidb87rdvntudymefl
+Encrypted:778 222 279 20 389 279 238 405 447 447 935 389 778 126 341 405 323 637 202 126 455 546 340 935 238 521 447 339 222 935 77 934 222 778 714 77 604 778 604 468 341 323 20 126 339 447 222 20 20 323 341 934 205 207 468 934 804 222 468 550 126 972 405 126 550 323 546 972 935 714 323 637 279 455 521 405 550 323 323 126 778 339 389 804 323 389 323 546 238 405 207 804 323 468 714 972 934 935 714 405 546 778 637 340 550 521 405 238 778 804 340 521 546 222 637 468 339 935 222 389 972 323 447 637 126 468 714 521 604 208 207 126 521 637 778 279 468 521 238 935 550 934 405
+a 804
+b 604
+c 20
+d 521
+e 550
+f 934
+g 447
+h 77
+i 714
+j 389
+k 341
+l 405
+m 935
+n 778
+o 340
+p 339
+q 455
+r 126
+s 972
+t 279
+u 468
+v 637
+w 546
+x 222
+y 238
+z 323
+1 201
+2 202
+3 203
+4 204
+5 205
+6 206
+7 207
+8 208
+9 209
+0 210
+Comparable: 108.21678321678321
+9: PointerSwap:
+Decrypted:owtvyffzzs6alyiaahvtwgsji3kjd1qxdnksvctlhktsdznsenryevctzmkmgsupwuhvkcaqefpyoqkeextftnfqyrhltsounjleqtjdhixg3gygejvpupomdgtuydfkmfztgqrppfvpxlondtmqkqwgefyixhloewktexmfvpogdyhgqpnwlegqkiyhwmuvrmpadknfgskbyeuig
+Encrypted:bryejttoof0zujxzzqeyrpfwx9awn2lsndafeiyuqayfnodfvdgjveiyohahpfkcrkqeaizlvtcjblavvsytydtljgquyfbkdwuvlywnqxsp9pjpvweckcbhnpykjntahtoyplgcctecsubdnyhlalrpvtjxsqubvrayvshtecbpnjqplcdruvplaxjqrhkeghcznadtpfamjvkxp
+a z
+b m
+c i
+d n
+e v
+f t
+g p
+h q
+i x
+j w
+k a
+l u
+m h
+n d
+o b
+p c
+q l
+r g
+s f
+t y
+u k
+v e
+w r
+x s
+y j
+z o
+1 2
+2 3
+3 9
+4 4
+5 1
+6 0
+7 7
+8 5
+9 8
+0 6
+Comparable: 108.7464114832536

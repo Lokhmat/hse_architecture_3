@@ -1,0 +1,17 @@
+Container:
+Contains 3.
+0: CycleSwap:
+Decrypted:advb1ca9
+Encrypted:fiag6hf4
+N=5
+Comparable:89.375
+1: CycleSwap:
+Decrypted:adsfadvxvwefae
+Encrypted:uxmzuxprpqyzuy
+N=20
+Comparable:106.21428571428571
+2: CycleSwap:
+Decrypted:asfdadfa72wjasjidfhas
+Encrypted:tlywtwyt83pctlcbwyatl
+N=1111
+Comparable:99.0952380952381
