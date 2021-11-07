@@ -51,9 +51,26 @@ class Container:
             k = str(self)
             file.write(k)
 
-    # Sorts storage of container.
-    def sort(self) -> None:
-        self.storage.sort(key=lambda x: x.comparable)
+    # Sorts storage of container as a shaker sort.
+    def sort(self):
+        upper = len(self.storage) - 1
+        lower = 0
+        flag = True
+        while flag:
+            flag = False
+            for i in range(lower, upper):
+                if self.storage[i + 1].comparable < self.storage[i].comparable:
+                    self.storage[i + 1], self.storage[i] = self.storage[i], self.storage[i + 1]
+                    flag = True
+            if not flag:
+                break
+            flag = False
+            upper -= 1
+            for i in range(upper - 1, lower - 1, -1):
+                if self.storage[i + 1].comparable < self.storage[i].comparable:
+                    self.storage[i + 1], self.storage[i] = self.storage[i], self.storage[i + 1]
+                    flag = True
+            lower += + 1
 
     # Adding random CycleSwap to container.
     def __add_random_cycle(self) -> None:
